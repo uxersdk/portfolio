@@ -10,7 +10,7 @@
     "react-hex": "^0.4.1",
     "react-parallax": "^2.2.0",
     "react-player": "^1.11.0",
-    "react-scripts": "3.0.0",
+    "react-scripts": "5.0.1",
     "react-slick": "^0.24.0",
     "slick-carousel": "^1.8.1"
   },
